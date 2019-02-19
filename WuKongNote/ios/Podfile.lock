@@ -144,9 +144,9 @@ SPEC CHECKSUMS:
   Base64: cecfb41a004124895a7bcee567a89bae5a89d49b
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
   CodePush: f6b348759cdc42c734d9c3a46ceb2997c270b12e
-  DoubleConversion: bb338842f62ab1d708ceb63ec3d999f0f3d98ecd
-  Folly: de497beb10f102453a1afa9edbf8cf8a251890de
-  glog: aefd1eb5dda2ab95ba0938556f34b98e2da3a60d
+  DoubleConversion: f667477bface883238976991f46105fcacc96d56
+  Folly: 391015f9b49dcda4ab622abb43ee71ab77c96269
+  glog: 103925dc1e1722c8cda98f81885a182250ffee22
   JWT: 05028b9624591bba9681bb57df2c5f95fa258bad
   React: 9b873b38b92ed8012d7cdf3b965477095ed364c4
   react-native-blur: c35c1f6c2c76db7108bde7ed343bd2b01d64e0c0
@@ -160,4 +160,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 6380cdd1add4cb92cf7884a3692eb3e94f39dcc8
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.0.beta.1
